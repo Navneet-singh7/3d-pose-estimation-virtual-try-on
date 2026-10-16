@@ -52,10 +52,12 @@ The project maps human body movements captured through a webcam to a hierarchica
 
 ![Live Pose to Blender](assets/mediapipe_blender_live_retargeting.jpeg)
 
+
 ## Demo Videos
 
-- [Hand Movement Retargeting — Demo 1](assets/hand_movement_demo_1.mp4)
-- [Hand Movement Retargeting — Demo 2](assets/hand_movement_demo_2.mp4)
+- **Demo 1 — Hand Movement Retargeting:** [Watch / Download](assets/hand_movement_demo_1.mp4)
+- **Demo 2 — Improved Hand Movement Retargeting:** [Watch / Download](assets/hand_movement_demo_2.mp4)
+
 
 ## Technical Challenges
 
