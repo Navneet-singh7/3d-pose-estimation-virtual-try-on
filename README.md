@@ -68,4 +68,4 @@ The project maps human body movements captured through a webcam to a hierarchica
 ## Project Outcome
 
 Delivered an animated Blender skeleton driven by estimated human pose, ready for integration into the virtual fashion try-on workflow by the computer graphics team.
-<img width="846" height="1086" alt="mediapipe_blender_live_retargeting" src="https://github.com/user-attachments/assets/79b19e1e-9875-46a5-b86f-4322ce2cb70a" />
+
